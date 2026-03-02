@@ -1,0 +1,2 @@
+# summarize-ai
+AI tool
